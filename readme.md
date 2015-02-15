@@ -2,6 +2,8 @@ Source code for Web Search Engines at NYU in Fall, 2014.
 
 [Final Project Writeup](https://docs.google.com/a/nyu.edu/document/d/13lkKyrSOUQHyZIybLLXnUD_LLSWqyq_obYmvZkNniyw/edit?usp=sharing)
 
+Project with Tyler Palsulich AND Chen Khen Price
+
 Compile:
 --------
 Install Maven then compile everything with `mvn clean package`.
