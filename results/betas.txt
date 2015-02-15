@@ -1,0 +1,4 @@
+cosine 0.40
+numviews 0.10
+jelinek 0.25
+phrase 0.25

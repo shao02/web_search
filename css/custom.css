@@ -1,0 +1,12 @@
+table, th, td {
+    border: 1px solid black;
+}
+
+th, td {
+    padding: 10px;
+}
+
+.search_box_container{
+				margin-top:60px;
+			}	
+
